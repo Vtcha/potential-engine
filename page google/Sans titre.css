@@ -1,0 +1,128 @@
+#body{
+    
+    position: relative;
+    padding: 010px;
+    padding-bottom: 010px;
+    font-family: Trebuchet MS, sans-serif;
+}
+
+
+
+
+#gmail{
+    margin-top: 2%;
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+        font-family: Trebuchet MS, sans-serif;
+    font-size: 12
+
+}
+
+
+#container{
+    
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+   
+    
+    
+    
+    
+}
+
+#search{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0 auto;
+    background-color: white;
+        font-family: Trebuchet MS, sans-serif;
+   
+    background-repeat: no-repeat;
+    
+}
+
+.formulaire {
+    display: inline-block
+}
+.champ {
+    margin-top: 7%;
+    
+    height: 45px;
+    width: 500px; 
+    border-color: E9E9E9;
+   
+    border-radius: 40px 40px 40px 40px;
+        font-family: Trebuchet MS, sans-serif;
+    font-size: 12;
+    
+    
+}
+.mic{
+    
+    position: 450px 45px;
+}
+#zone{
+    margin-top: 10;
+    text-align: center;
+   
+    
+    
+    
+}
+
+#footer{
+    
+margin:46px auto;
+    margin-top: 10%;
+    border-top: solid;
+    border-top-color: E9E9E9;
+    background-color: F2EFEF;
+    padding-bottom: 010px;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 14;
+    text-decoration-color: grey;
+    position: absolute; bottom: 0;left: 0; right: 0;
+    
+}
+
+
+#foot{
+    
+    text-align: center;
+    margin: 29px auto;
+    border-top: solid;
+    border-top-color: E9E9E9;
+    border-bottom-color: F2EFEF;
+    background-color: F2EFEF;
+    padding-bottom: 10px;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 15;
+    text-decoration-color: gainsboro;
+    position: absolute; bottom: 0;left: 0; right: 0;
+    
+    
+    
+}
+
+#fin{
+    
+    margin: 0px;
+    border-top: solid;
+    border-top-color: F2EFEF;
+
+    background-color: F2EFEF;
+    margin-bottom:;
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 14;
+    margin-bottom: 10px;
+    position: absolute; bottom: 0;left: 0; right: 0;
+    padding: -50px;
+    
+    
+}
+
